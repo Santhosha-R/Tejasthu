@@ -1,0 +1,3 @@
+This is t.txt file 
+this is for merge the changes purpose.
+practice
